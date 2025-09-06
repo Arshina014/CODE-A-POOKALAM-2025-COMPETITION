@@ -1,4 +1,31 @@
-# 🌸 Code-a-Pookalam 2025 🌸
+# 🌸 [Arshina Beevi]'s Pookalam 2025 🌸
+
+## 👨‍💻 About Me
+- **Name:** [Arshina Beevi]
+- **Institution/Company:** [MBCCET PEERMADE]
+- **GitHub:** [@your-username](https://github.com/Arshina014)
+- **Programming Language Used:** [python]
+
+## 🎨 My Pookalam
+
+### Description
+[i created a pookkalam that resembles keralas heritage and tradition]
+
+### Preview
+![My Pookalam]()
+*Add more images if you have multiple views or animations*
+
+### Features
+- [Feature 1 - e.g., "Colorful geometric patterns"]
+- [Feature 2 - e.g., "Interactive elements"]
+
+## 🚀 How to Run
+
+### Prerequisites
+[python turtle]
+
+# Example for Python
+pip install matplotlib turtle numpy# 🌸 Code-a-Pookalam 2025 🌸
 ### *Create beautiful digital art through code this Onam season!*
 
 ---
